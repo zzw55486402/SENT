@@ -1,0 +1,2 @@
+data/train_ner.json
+data/glove/glove.6B.50d_word2id.json
